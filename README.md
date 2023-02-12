@@ -16,8 +16,8 @@ My name is Abdelatti Errokhsy. I'm currently a fourth-year student of cyber secu
 Skills: C / C++/ JAVA / JS/ PYTHON/ HTML / CSS
 
 
-<img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="1000">
-<img src="https://gist.githubusercontent.com/sundaysec/fe23ed04f4871478c48a20604cf1374f/raw/717a8de9db6466f0f2cfa879286beca2778b9b53/AboutMe.gif" width="1000">
+<img src="https://raw.githubusercontent.com/BaiqingL/BaiqingL/master/head.gif" width="500">
+<img src="https://gist.githubusercontent.com/sundaysec/fe23ed04f4871478c48a20604cf1374f/raw/717a8de9db6466f0f2cfa879286beca2778b9b53/AboutMe.gif" width="500">
 
 
 
