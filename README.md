@@ -15,7 +15,7 @@ My name is Abdelatti Errokhsy. I'm currently a fourth-year student of cyber secu
 
 Skills: C / C++/ JAVA / JS/ PYTHON/ HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
